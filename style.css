@@ -1,0 +1,72 @@
+body{
+	background: linear-gradient(to left,skyblue,lightgreen);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: black;
+	text-decoration:  underline;
+	border-style: solid;
+	border-width: 5;
+	border-color: red;
+	border-radius: 20px;
+	padding: 5;
+
+
+}
+p{
+	background: linear-gradient(white ,lightgreen);
+	color: black;
+}
+table{
+	background-color: red;
+}
+td{
+	background-color: skyblue;
+	text-decoration: dotted underline;
+	font-size: 50px;
+}
+input{
+	background-color: aliceblue;
+	color:red;
+}
+#p1{
+	color: tomato;
+	background-color: skyblue;
+	text-decoration: white  dotted underline;
+}
+#ppps{
+	background:linear-gradient(white,mediumpurple);
+	color: whitesmoke;
+	text-decoration: cyan wavy underline;
+font-size:50px;
+border-style: solid;
+}
+h1{
+	color: red;
+	font-family: Press Start 2P
+
+	border-top-style: ridge;
+	border-bottom-style: ridge;
+	border-radius: 40;
+	border-block: yellowgreen;
+	border-right-width: 40;
+	border-right-color: silver;
+
+}
+h2{
+	color: green;
+	font-family: Geneva;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+	border-style: dashed;
+	border-bottom-style: black;
+	border-left-style:double ;
+	border-left-width: 20px;
+	border-left-color: silver;
+	border-bottom-right-radius: 40;
+	border-right-width: 30;
+	border-right-color: silver;
+
+
+
+}
